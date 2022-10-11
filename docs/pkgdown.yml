@@ -1,0 +1,13 @@
+pandoc: '2.18'
+pkgdown: 2.0.6
+pkgdown_sha: ~
+articles:
+  FishStomachs: FishStomachs.html
+  ex01_Read_and_manipulate_data: ex01_Read_and_manipulate_data.html
+  ex02_More_data_manipulations: ex02_More_data_manipulations.html
+  ex03_Estimate_population_diet: ex03_Estimate_population_diet.html
+  ex04_Population_diet: ex04_Population_diet.html
+  ex05_Create_data_for_model: ex05_Create_data_for_model.html
+  ex06_Bootstrapping: ex06_Bootstrapping.html
+last_built: 2022-10-11T14:31Z
+
